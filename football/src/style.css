@@ -101,7 +101,7 @@ h1{
 .current-football-events-info{
   
   display: flex;
-  height: 300px;
+  height: 320px;
   background-color: #F9F6F6;
   font-size: 16px;
   font-family: 'StolzlBook';
@@ -155,29 +155,31 @@ transform: translateY(2px);
 }
 
 .events {
+  
   display: flex;
   justify-content: space-around;
   color: #fff;
   background-color: #F9F6F6;
-  height: 650px;
+  height: 580px;
 
   
 }
 
 .event-img {
+  
   background-image: url('./football-teams-card.png');
-  width: 400px;
+  width: 340px;
   height: 268px;
 }
 
 .events-header{
   font-family:'StolzlMedium';
   background-image: url('../images/events2.png');
-  height: 153px;
+  height: 100px;
   color: #Fff;
   display: flex;
   justify-content: center;
-  font-size: 96px;
+  font-size: 60px;
   font-weight: 100;
   align-items: center;
 
@@ -186,13 +188,13 @@ transform: translateY(2px);
 .teams-tittles{
   font-family: 'StolzlBook';
   font-weight: 100;
-  font-size: 24px;
+  font-size: 20px;
   padding-bottom: 76px;
 }
 
 p{
   font-weight: 500;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 6px;
 }
 
@@ -204,32 +206,32 @@ p{
 
 .events-card {
 
-  width: 401px;
-  height: 523px;
+  width: 340px;
+  height: 490px;
   background-color: #2A2A2A;
   text-align: center;
   color: #fff;
-  margin-top: 49px;
-  margin-bottom: 36px;
+  margin-top: 40px;
+  margin-bottom: 10px;
  
 }
 
 .black-line{
   background-color: black;
-  width: 401px;
+  width: 340px;
 height: 13px;
 
 }
 
 .best-players-header{
   background-image: url('../images/best-players.png');
-  height: 159px;
+  height: 100px;
   color: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
   font-weight: 500;
-  font-size: 64px;
+  font-size: 55px;
   
   
   }
@@ -242,32 +244,32 @@ height: 13px;
   .best-players-card {
   
     margin-top: 38px;
-    margin-bottom: 56px;
+    margin-bottom: 36px;
     padding-right: 40px;
     display: flex;
     background-color: black;
-    width:650px;
-    height: 530px;
+    width:440px;
+    height: 440px;
     color: #fff;
     
   }
   
   .best-player-name {
     font-weight: 500;
-    font-size: 36px;
+    font-size: 18px;
     margin-left: 15px;
   }
   
   .achievments {
     font-weight: 100;
-  font-size: 24px;
+  font-size: 14px;
   font-family: 'StolzlBook';
   }
   
   .black-line-best-players{
     
     background-color: black;
-  height: 20px;
+  height: 12px;
   }
 
   .information-contacts {
@@ -276,7 +278,7 @@ height: 13px;
       
       align-items: center;
       
-    height: 760px;
+    height: 520px;
     background-color: #F9F6F6;
     }
     
@@ -290,11 +292,12 @@ height: 13px;
     }
     
     .black-bar-faq {
+     
       margin-top:39px;
-      margin-left: 170px;
+      margin-bottom: 39px;
       background-color: black;
-      width: 22px;
-      height: 580px;
+      width: 12px;
+      height: 450px;
     }
     
     .faq-information
@@ -304,12 +307,12 @@ height: 13px;
     }
     
     .faq {
-      font-size: 38px;
+      font-size: 26px;
       
     }
     
     h3 {
-      font-size: 30px;
+      font-size: 24px;
       font-family: 'StolzlBold';
     }
     
@@ -318,15 +321,16 @@ height: 13px;
       line-height: 23px;
       width: 744px;
       font-weight: 400;
-    font-size: 24px;
+    font-size: 16px;
     font-family: 'StolzlBook';
     
      
     }
     
     .contacts-details {
+      font-size: 16px;
       font-family: 'StolzlBook';
-      line-height: 23px;
+      line-height: 14px;
     }
     
     .name {
@@ -339,21 +343,21 @@ height: 13px;
     }
     
     .person-info {
-      margin-right: 38px;
-      width: 225px;
-    height: 45px;
+      margin-right: 18px;
+      width: 200px;
+    height: 35px;
     background-color: #2A2A2A;
     border: none;
     color: #A2A1A1;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 16px;
     }
     
     .submit-button {
-    width: 230px;
-    height: 45px;
+    width: 205px;
+    height: 35px;
     background-color: black;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 700;
     color: #fff;
     margin-top: 25px;
@@ -372,7 +376,7 @@ height: 13px;
   .input-error-info {
     font-family: 'StolzlBook';
     margin-top: 20px;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .notification-modal {
@@ -416,7 +420,7 @@ height: 13px;
 
   .notification-btn {
     background-color: black;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 700;
     color: #fff;
     width: 100px;
@@ -431,12 +435,12 @@ height: 13px;
   .submit-notification {
     
     font-family: 'StolzlBook';
-    font-size: 22px;
+    font-size: 20px;
   }
     
     .black-line-faq {
     
-    height: 20px;
+    height: 12px;
     background-color:  #000000;;
     }
     
@@ -448,10 +452,10 @@ height: 13px;
       padding-right: 80px;
       padding-left: 140px;
       align-items: center;
-      height: 189px;
+      height: 139px;
       background-color:#2A2A2A;
       color: #A2A1A1;
-      font-size: 20px;
+      font-size: 16px;
     }
 
 
