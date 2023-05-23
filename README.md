@@ -29,4 +29,14 @@
 Если пользователь успешно отправит данные, на странице появится модальное окно:
 ![image](https://github.com/Melniik/FootballManager/assets/114603605/0dc557a8-534c-4512-800f-4ad0054078f5)
 
+
+
+
+
+
+
+Также была разработана мобильная версия сайта:
+![image](https://github.com/Melniik/FootballManager/assets/114603605/27cf880e-9b2e-4fcf-8978-b68fb9ffac0f)
+
+
  
