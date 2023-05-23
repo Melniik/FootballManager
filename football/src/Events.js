@@ -26,7 +26,7 @@ export default function Events()
 <div class = "event-img">
         </div>
                <h2 class = "teams-tittles">
-               Barcelona vs Real Madrid
+               Dynamo vs FC Bayern
                </h2>
 
                <p class = "location-info">Location: Volna Stadium</p>
@@ -40,7 +40,7 @@ export default function Events()
     <div class = "event-img">
         </div>
              <h2 class = "teams-tittles">
-             Barcelona vs Real Madrid
+             Chelsea vs Manchester City
              </h2>
 
              <p class = "location-info">Location: Volna Stadium</p>
@@ -52,7 +52,7 @@ export default function Events()
   <div class = "event-img">
         </div>
            <h2 class = "teams-tittles">
-           Barcelona vs Real Madrid
+           Liverpool vs Arsenal
            </h2>
 
            <p class = "location-info">Location: Volna Stadium</p>
