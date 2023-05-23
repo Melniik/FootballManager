@@ -36,7 +36,7 @@
 
 
 Также была разработана мобильная версия сайта:
-![image](https://github.com/Melniik/FootballManager/assets/114603605/27cf880e-9b2e-4fcf-8978-b68fb9ffac0f)
+![image](https://github.com/Melniik/FootballManager/assets/114603605/18af1aaf-6fe2-496e-ad89-34415e280e27)
 
 
  
